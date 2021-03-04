@@ -12,7 +12,7 @@ Over a period of nine years in deep space, the NASA Kepler space telescope has b
 
 ## Resources
 
-* [](https://www.kaggle.com/nasa/kepler-exoplanet-search-results)
+* (https://www.kaggle.com/nasa/kepler-exoplanet-search-results)
 
 ## Steps to Creating the Models:
 
